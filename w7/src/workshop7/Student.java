@@ -12,7 +12,7 @@ public class Student implements Comparable<Student> {
 	private double grade;
 	private String department;
 
-//constructor
+    //constructor
 	public Student(String fn, String ln, double g, String dep) {
 		this.firstName = fn;
 		this.lastName = ln;
